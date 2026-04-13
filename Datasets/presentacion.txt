@@ -1,0 +1,82 @@
+Ministerio de Infraestructura
+Secretaría de Transporte
+Subsecretaría de Planificación de la Movilidad y Seguridad Vial
+Dirección General de Seguridad Vial
+Observatorio de Movilidad y Seguridad Vial de la Ciudad de Buenos Aires
+
+Notas para su uso
+
+Bases de Siniestros Viales
+
+2019 - 2024
+
+Agosto 2025
+
+
+Metodología y fuentes de información para las estadísticas de siniestros viales
+El Observatorio de Movilidad y Seguridad Vial de la Ciudad de Buenos Aires (OMSV) toma como su principal fuente de información datos policiales, tal y como recomiendan los estándares internacionales. Las estadísticas elaboradas se realizan en base a los sumarios que instruye la Policía de la Ciudad ante dos clases de delitos que involucran la seguridad vial: lesiones culposas (Arts. 94 y 94 bis del Código Penal de la Nación) y homicidios culposos (Arts. 84 y 84 bis del CPN).
+
+Hasta 2016, el OMSV se basó en la información provista por la Dirección General de Comisarías (DGC) de la Policía Federal Argentina (PFA), base que abarca el período 2010-2016. En el año 2018, comenzó a operar la Policía de la Ciudad, dependiente del Ministerio de Justicia y Seguridad del GCBA (MJyS), fuerza que reunió a las dependencias de la PFA (entre ellas la DGC) junto con las de la preexistente Policía Metropolitana (autopistas, comunas, etc.). La Policía de la Ciudad cubrió así la totalidad del territorio e integró la información que hasta entonces recopilaban las fuerzas de manera independiente. En virtud de ello, a partir del segundo cuatrimestre de 2018, la principal fuente de información sobre siniestros viales con la que trabaja el Observatorio es la del Ministerio de Seguridad (MS), fuente que permite conocer una mayor cantidad de casos por cubrir la totalidad del territorio de la Ciudad.
+
+La publicación de estos datos resulta complementaria entonces a la información del dataset Delitos del Ministerio de Seguridad, en el que se contabilizan los delitos mencionados.
+Buenos Aires Data - Delitos
+https://data.buenosaires.gob.ar/dataset/delitos
+
+
+Metodología y fuentes de información para las estadísticas de siniestros viales
+Por un lado, las estadísticas de delitos por Lesiones Culposas informadas por el MS son procesadas por el equipo del Observatorio para verificar que los incidentes se ajusten a las definiciones de siniestro vial vertidas en este documento, así como para determinar los modos de desplazamiento de quienes participaron del hecho, tanto la/s víctima/s como la contraparte.
+
+Asimismo, con el relevamiento propio a los trece hospitales de agudos de la Ciudad de Buenos Aires se logró asignar gravedad de la lesión, considerando siniestros graves a aquellos que tuvieron víctimas que debieron ser hospitalizadas por al menos 24 hs.
+
+Por otro lado, las estadísticas de siniestros viales con víctimas mortales se elaboran de manera conjunta entre el Observatorio de Movilidad y Seguridad Vial de la Ciudad de Buenos Aires y la Subsecretaría de Seguridad Comunal e Investigación Criminal de la Secretaría de Seguridad del Ministerio de Justicia y Seguridad.
+
+Adicionalmente, el registro de víctimas mortales se nutre de la información proporcionada por múltiples áreas (SAME, AUSA, AUSOL, Hospitales Agudos de la Ciudad de Buenos Aires, medios de comunicación, la Cámara Nacional de Apelaciones, el Ministerio Público Fiscal de la Ciudad de Buenos Aires, Ministerio Público Fiscal de la Nación, entre otros). Esto permite que el registro sea lo más completo posible.
+
+Anualmente se realiza un Informe estadístico sobre las víctimas mortales a causa de siniestros viales.
+Puede consultarse en:
+https://buenosaires.gob.ar/jefaturadegabinete/movilidad/informes-estadisticos-de-seguridad-vial
+
+
+Definiciones
+
+Siniestro Vial o Hecho:
+Cualquier hecho de tránsito con implicación de al menos un vehículo en movimiento, que tenga lugar en una vía pública o privada con acceso público, y que tenga como consecuencia al menos una persona herida o muerta.
+
+Se excluyen suicidios (salvo que afecten a terceros), hechos solo con daños materiales y actos terroristas.
+
+Víctimas:
+Víctima: persona muerta o herida.
+Víctima mortal: fallecida dentro de los 30 días.
+Lesionado/a: persona herida que no fallece.
+
+
+Roles:
+Conductor/a, Pasajero/Acompañante, Ciclista, Peatón/a.
+
+
+Vehículos:
+Auto, Camión, Utilitario, Monopatín, Moto, Móvil, Taxi, Transporte Público, Tren, Otros.
+
+
+Gravedad:
+Grave: hospitalización ≥ 24 hs.
+Mortal: fallece dentro de 30 días.
+SD: sin datos.
+
+
+Estructura de la base:
+
+HECHOS: una fila por hecho.
+DICCIONARIO_HECHOS: definiciones.
+VICTIMAS: una fila por víctima.
+DICCIONARIO_VICTIMAS: definiciones.
+
+Diapositivas:
+1. Bases de Siniestros Viales
+2. Metodología
+3. Metodología
+4. Definiciones
+5. Definiciones
+6. Definiciones
+7. Definiciones
+8. Estructura de la base

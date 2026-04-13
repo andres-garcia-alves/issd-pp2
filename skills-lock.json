@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "skills": {
+    "Exploratory Data Analysis": {
+      "source": "aj-geddes/useful-ai-prompts",
+      "sourceType": "github",
+      "computedHash": "cd96edb59b2b9f1c4f0b18cd5620b19d4cc4fc27e2010080da62e0c746d077f7"
+    },
+    "data-scientist": {
+      "source": "borghei/claude-skills",
+      "sourceType": "github",
+      "computedHash": "28a55999d5b24172c90134a393785b5674c2568cb4a9130b49934699e6819e23"
+    }
+  }
+}
