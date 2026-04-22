@@ -1,7 +1,7 @@
 {
   "modelo": "KMeans",
   "version": "modelo_2",
-  "fecha_guardado": "2026-04-22 00:07:56",
+  "fecha_guardado": "2026-04-22 18:40:41",
   "n_clusters": 2,
   "n_muestras": 54064,
   "n_features": 206,
