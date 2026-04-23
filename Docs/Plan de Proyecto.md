@@ -91,8 +91,8 @@
 
 ### Fase 7 - Segundo Modelo de ML (Agrupamiento)
 
-- **Candidato:** ???
-- **Algoritmo:** ???
+- **Candidato:** Agrupación
+- **Algoritmo:** K-Means
 
 ### Fase 8 — Segunda Etapa: Artículo Académico *(sesión futura)*
 
@@ -121,5 +121,5 @@ Formato HTML embebido en el notebook:
 
 | Fecha    | Decisión |
 | -------- | -------- |
-| Abr 2026 | Visualización principal: Plotly (mayor interactividad vs. Bokeh/Altair del PP1) |
+| Abr 2026 | Visualización principal: Plotly (mayor interactividad vs Bokeh/Altair) |
 | Abr 2026 | Artículo en español (para apuntar a revistas institucionales LATAM) |
