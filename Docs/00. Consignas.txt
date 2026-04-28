@@ -1,0 +1,28 @@
+📊 Primera etapa
+👉 El objetivo es que el Proyecto esté muy avanzado técnicamente:
+
+✔ Dataset seleccionado y limpio
+✔ Pipeline completo
+✔ Variables construidas con criterio
+✔ Análisis sólido
+💡 En esta etapa se cierra la parte técnica
+
+✍️ Segunda etapa (cierre de la materia)
+👉 El foco cambia completamente:
+
+Transformar el trabajo en un
+📄 mini artículo tipo revista académica
+Incluyendo:
+- introducción
+- marco teórico
+- metodología
+- resultados
+- conclusiones
+
+📄 Enfoque publicación (diferencial de la materia)
+👉 El objetivo es que su trabajo pueda aspirar a:
+
+🏛️ revistas institucionales con referato (muy viable)
+📊 o incluso alguna revista tipo Q3 / Q4 (para trabajos más sólidos)
+💡 No es obligatorio que se publique…
+👉 pero sí que tenga nivel suficiente para intentarlo
